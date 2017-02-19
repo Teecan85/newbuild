@@ -1,0 +1,6 @@
+
+name="TeevanBuild"
+url="https://archive.org/download/christopherteevan_live/ares_backup_2017-02-19_1028.zip"
+img="https://archive.org/download/icon.png_201612/icon.png"
+fanart="https://archive.org/download/images_20161203_1936/images.jpg"
+description="My first Wizard with help from Husham"
